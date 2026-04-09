@@ -4,4 +4,5 @@ Zadanie 1 Bash
 - [ ] 4.0 - pozwala na zapis i odtwarzanie przerwanej gry (save game),
 - [ ] 5.0 - pozwala na grę z komputerem
 
-[Link do zadania 1](https://github.com/bbart0/scripting_lang_lab/tree/main/assignment_1)
+Kod: [Link do zadania 1](https://github.com/bbart0/scripting_lang_lab/tree/main/assignment_1)
+[Zrzuty](https://github.com/bbart0/scripting_lang_lab/tree/main/assignment_1/assets)
