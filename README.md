@@ -25,5 +25,5 @@ Zadanie 3 Lua
 - [ ] 4.5 Dodanie animacji przy zbijaniu klocków
 - [ ] 5.0 Wersja na iOS lub Android z implementacją touch zamiast klawiatury
 
-Kod: [Link do zadania 2](https://github.com/bbart0/scripting_lang_lab/tree/main/assignment_3)
+Kod: [Link do zadania 3](https://github.com/bbart0/scripting_lang_lab/tree/main/assignment_3)
 [Zrzuty](https://github.com/bbart0/scripting_lang_lab/tree/main/assignment_3/assets)
